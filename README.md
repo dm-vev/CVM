@@ -28,7 +28,7 @@ done:
 
 ### Hello world example:
 
-```
+```asm
 main:
     LIT 0 'H'
     PRN
